@@ -1,0 +1,5 @@
+<RunSettings>
+  <NUnit>
+    <DumpXmlTestResults>true</DumpXmlTestResults>
+  </NUnit>
+</RunSettings>
